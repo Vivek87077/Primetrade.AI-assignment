@@ -1,0 +1,5 @@
+2023-10-01 12:00:00,000 - INFO - Market order placed: {'symbol': 'BTCUSDT', 'orderId': 123456, 'status': 'FILLED'}
+2023-10-01 12:01:00,000 - INFO - Limit order placed: {'symbol': 'BTCUSDT', 'orderId': 123457, 'status': 'NEW'}
+2023-10-01 12:02:00,000 - ERROR - Error placing OCO order: Invalid API key
+2023-10-01 12:03:00,000 - INFO - TWAP order started: Splitting 1 BTC into 5 orders over 10 minutes
+2023-10-01 12:04:00,000 - INFO - Grid orders placed: 3 buy and 3 sell orders
